@@ -35,10 +35,9 @@ O modelo atingiu uma acurácia de 100% nos dados de teste.
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git](https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git)
-Bash
-pip install pandas scikit-learn matplotlib seaborn
-Execute o notebook analise_sentimento.ipynb (ou clique no botão "Open in Colab" acima).
+   git clone [https://github.com/Andressa-Sim/estudos-data-science/blob/main/Pensar_e_Responder_Multinomial.ipynb)
+
+ clique no botão "Open in Colab" acima).
 
 👩‍💻 Autora
 Andressa Estudante de Sistemas de Informação | Entusiasta de Data Science e DevOps
