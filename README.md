@@ -30,7 +30,19 @@ O objetivo é automatizar a triagem de feedback em plataformas de e-commerce, pe
 ## 📈 Resultados
 O modelo atingiu uma acurácia de 100% nos dados de teste.
 
-
+--- ANÁLISE DE NOVOS COMENTÁRIOS ---
+Frase: 'O produto é excelente, muito bom mesmo'
+ -> Classificação: POSITIVO (Certeza: 40.7%)
+------------------------------
+Frase: 'Odiei, veio tudo quebrado e rasgado'
+ -> Classificação: NEGATIVO (Certeza: 44.3%)
+------------------------------
+Frase: 'É um produto básico, chegou na hora'
+ -> Classificação: NEUTRO (Certeza: 55.2%)
+------------------------------
+Frase: 'A qualidade é horrível'
+ -> Classificação: NEGATIVO (Certeza: 48.2%)
+------------------------------
 
 ## 🚀 Como Executar
 1. Clone o repositório:
